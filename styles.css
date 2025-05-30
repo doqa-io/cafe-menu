@@ -4,14 +4,6 @@ body {
   padding: 20px;
 }
 
-h1, h2, p {
-  text-align: center;
-}
-
-h1, h2 {
-  font-family: Impact, serif;
-}
-
 h1 {
   font-size: 40px;
 }
@@ -20,15 +12,12 @@ h2 {
   font-size: 30px;
 }
 
-hr {
-  height: 2px;
-  background-color: brown;
-  border-color: brown;
-  border-width: 1px;
-}
-
 .established {
   font-style: italic;
+}
+
+h1, h2, p {
+  text-align: center;
 }
 
 .menu {
@@ -40,10 +29,22 @@ hr {
   max-width: 500px;
 }
 
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+
+
+h1, h2 {
+  font-family: Impact, serif;
+}
+
 .item p {
   display: inline-block;
-  margin-top:5px;
-  margin-bottom:5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   font-size: 18px;
 }
 
