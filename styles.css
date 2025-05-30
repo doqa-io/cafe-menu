@@ -35,8 +35,6 @@ hr {
   border-color: brown;
 }
 
-
-
 h1, h2 {
   font-family: Impact, serif;
 }
@@ -56,4 +54,8 @@ h1, h2 {
 .price {
   text-align: right;
   width: 25%
+}
+
+.bottom-line {
+  margin-top: 25px;
 }
